@@ -1,0 +1,12 @@
+binutils-2.40/
+bochs-3.0/
+build/
+build-binutils/
+build-gcc/
+gcc-13.2.0/
+
+
+binutils-2.40.tar.gz
+bochs-3.0.tar.gz
+bx_enh_dbg.ini
+gcc-13.2.0.tar.gz
